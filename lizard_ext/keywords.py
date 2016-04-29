@@ -72,4 +72,17 @@ IGNORED_WORDS = set((
     'is',
     'import',
     'from',
+
+    '@',
+    'nonatomic',
+    'atomic',
+    'weak',
+    'strong',
+    'assign',
+    'id',
+    'super',
+    'property',
+    '^',
+    'selector',
+    'IBOutlet',
     ))
